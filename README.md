@@ -1,8 +1,8 @@
 ## Hello Dev 😆, I'm Marcelo Junior better known as WC.
 
-<img src="https://github.com/WTC13/wtc13/blob/main/9562.gif" alt="Gif Sonic" width="100" height="120" align="right">
+<img src="https://github.com/Marcelopazjr/eu/blob/main/9562.gif" alt="Gif Sonic" width="100" height="120" align="right">
   
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=wtc13&color=orange" alt="Profile views" /> </p>
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Marcelopazjr&color=orange" alt="Profile views" /> </p>
 - 💼 Looking for the first job in programming!
 - :computer: Front end Developer
 - :mortar_board: Graduating in Information Systems.!
@@ -11,7 +11,7 @@
  
   <br><br>
   
-  <a href="https://github.com/wtc13">
+  <a href="https://github.com/Marcelopazjr">
   <img height="350" width="100%" src="work.gif">
   
   ## ⚙️ &nbsp;GitHub Analytics
