@@ -6,7 +6,7 @@
 - 💼 Looking for the first job in programming!
 - :computer: Front end Developer
 - :mortar_board: Graduating in Information Systems.!
-- :mailbox: <a href = "https://linktr.ee/wtc13" target = "_blank">My Contacts</a>
+- :mailbox: <a href = "https://linktr.ee/Marcelopazjr" target = "_blank">My Contacts</a>
 - :fr: - currently studying English!
  
   <br><br>
@@ -16,8 +16,8 @@
   
   ## ⚙️ &nbsp;GitHub Analytics
   
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=wtc13&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtc13&layout=compact&langs_count=7&theme=merko"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Marcelopazjr&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelopazjr&layout=compact&langs_count=7&theme=merko"/>
 
   <br><br>
   
@@ -38,16 +38,16 @@
   
     <p align="left" style="background:yellow">
       <a href="https://codepen.io/wtc13" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-wtc13-05122A?style=flat&logo=codepen" alt="codepen"/>
+        <img align="center" src="https://img.shields.io/badge/-Marcelopazjr-05122A?style=flat&logo=codepen" alt="codepen"/>
       </a>
       <a href="https://twitter.com/wt_black" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-wtc13-05122A?style=flat&logo=Gmail" alt="twitter"/>  
+        <img align="center" src="https://img.shields.io/badge/-Marcelopazjr-05122A?style=flat&logo=Gmail" alt="twitter"/>  
       </a>
       <a href="https://www.linkedin.com/in/wendell-costa-161a0a1b2/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-wtc13-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+        <img align="center" src="https://img.shields.io/badge/-Marcelopazjr-05122A?style=flat&logo=linkedin" alt="linkedin"/>
       </a>
       <a href="https://www.instagram.com/wt_costa/" target="_blank">
-       <img align="center" src="https://img.shields.io/badge/-wtc13-05122A?style=flat&logo=instagram" alt="instagram"/>
+       <img align="center" src="https://img.shields.io/badge/-Marcelopazjr-05122A?style=flat&logo=instagram" alt="instagram"/>
       </a>
     </p>
 
